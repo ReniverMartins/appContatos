@@ -1,0 +1,5 @@
+insert into tblcontatos(nome, telefone, email, cidade, estado, badList) 
+values('Reniver', '123','123@123.com','Codelandia','PR','E')
+
+
+badList = E - Enable | D - Disable
